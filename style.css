@@ -6,7 +6,7 @@
 
 body {
   margin: 0;
-  background-color: #98cfff;
+  background-color: #aed9ff;
 }
 
 ul {
@@ -23,7 +23,6 @@ li {
   left: calc(50% - 75px);
   width: 180px;
   height: 180px;
-  /* background: #98cfff; */
 }
 
 /* weather */
@@ -31,7 +30,7 @@ li {
   width: 150px;
   height: 150px;
   position: relative;
-  margin-top: 30px;
+  margin-top: 10px;
 }
 
 /* sun */
@@ -102,13 +101,13 @@ li {
 }
 
 .animation .cloud .c_shadow:before {
-  background: #98cfff !important;
+  background: #aed9ff !important;
 }
 
 .animation .cloud .c_shadow ul li {
   width: 60px !important;
   height: 60px !important;
-  background: #98cfff !important;
+  background: #aed9ff !important;
   float: left;
   position: absolute;
   bottom: -2px !important;
@@ -118,7 +117,7 @@ li {
 .animation .cloud .c_shadow ul li:nth-child(2) {
   width: 80px !important;
   height: 80px !important;
-  background: #98cfff !important;
+  background: #aed9ff !important;
   float: left;
   border-radius: 360px;
   position: absolute;
@@ -246,7 +245,7 @@ li {
   z-index: 6;
   opacity: 0;
   animation: haze 10s 0s linear infinite;
-  background: #98cfff;
+  background: #aed9ff;
 }
 
 .animation .haze_line {
