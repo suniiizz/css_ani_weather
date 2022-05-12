@@ -21,8 +21,6 @@ li {
   position: absolute;
   top: calc(50% - 75px);
   left: calc(50% - 75px);
-  width: 180px;
-  height: 180px;
 }
 
 /* weather */
